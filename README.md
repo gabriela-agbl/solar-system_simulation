@@ -75,31 +75,6 @@ Para evitar problemas numéricos, são utilizadas unidades astronômicas:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-### Núcleo Científico
-
-* **Python 3**
-* NumPy
-* SciPy
-
-### Visualização
-
-* Matplotlib (2D)
-* Pygame / VisPy (tempo real)
-* Three.js (planejado para versão Web 3D)
-
----
-
-## ▶️ Como Executar (futuro)
-
-```bash
-pip install -r requirements.txt
-python simulation/engine.py
-```
-
----
-
 ## 🧪 Validação Científica
 
 O projeto inclui testes para:
